@@ -100,8 +100,3 @@ Europe-Africa location
 September 2024\
 **21th International Conference**\
 Asia-Pacific location
-
-
-
-\--\
-© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)

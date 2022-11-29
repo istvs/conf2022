@@ -46,7 +46,3 @@ To register now online by credit card, use the registration choices below to cho
 
 :tickets: [Student registration | Early Bird | €90](https://buy.stripe.com/00gaET7tN0SI5Ko288)
 
-
-
-\--\
-© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)\

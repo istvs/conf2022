@@ -6,6 +6,10 @@ coverY: 0
 
 # 11th Asia-Pacific Regional Conference of the ISTVS
 
+{% hint style="success" %}
+This is a conference site archive.&#x20;
+{% endhint %}
+
 <figure><img src=".gitbook/assets/Harbin 2022 not CFP - Social 1280×640.png" alt=""><figcaption></figcaption></figure>
 
 ## ISTVS conferences form an amazing legacy since our first meeting in 1962
@@ -105,8 +109,3 @@ Since its founding in 1920, HIT has been well-known as the cradle of engineers t
 ![Skyline, Harbin Institute of Technology, China](https://images.squarespace-cdn.com/content/v1/542f394be4b0b9e132ee7b1a/bdcc2d50-bc4d-4fff-8cb3-d0272e7391a9/harbin-headstone\_edit.jpeg?format=1500w)
 
 Skyline, Harbin Institute of Technology
-
-
-
-\--\
-© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)

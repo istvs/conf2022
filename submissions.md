@@ -56,7 +56,3 @@ _Provided for reference since live docs often open locally with broken formattin
 
 ![](https://images.squarespace-cdn.com/content/v1/542f394be4b0b9e132ee7b1a/b4f6ff1f-4249-4c1e-8b23-8f02d8311f3a/2022-ISTVS-HARBIN\_CFPv4.jpg?format=1500w)
 
-
-
-\--\
-© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)
