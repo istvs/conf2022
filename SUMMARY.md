@@ -54,3 +54,4 @@
   * [9768 / Design and Traction Performance Test of Bionic Paddy Wheel Based on Cattle Hoof](papers/9768.md)
   * [9913 / Acquisition of Flipper Motion in Step-Climbing of Tracked Robot Using Reinforcement Learning](papers/9913.md)
 * [Abstract-only submissions](abstract-only.md)
+* [Statement on Publication Ethics and Malpractice](publication-ethics.md)
