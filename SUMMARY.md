@@ -6,7 +6,7 @@
 * [Submissions](submissions.md)
 * [Registration](registration.md)
 * [Sponsors](sponsors.md)
-* [Papers](papers/README.md)
+* [Papers of the 11th Asia-Pacific Regional Conference of the ISTVS](papers/README.md)
   * [0303 / Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](papers/0303.md)
   * [0356 / Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover](papers/0356.md)
   * [0861 / Review of the Reconfigurable Wheel-Tracked System](papers/0861.md)
